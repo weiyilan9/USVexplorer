@@ -7,7 +7,7 @@ This repository contains the supporting materials for **USVexplorer: Robust Det
 │   ├── 1_1_RatPup_dataset.ipynb
 │   ├── 1_2_DeepSqueak_dataset.ipynb
 │   ├── 1_3_NABat_dataset.ipynb
-│   ├── 1_4_MarmAudio_dataset.ipynb
+│   └── 1_4_MarmAudio_dataset.ipynb
 ├── 2_model
 │   ├── 2_1_feature_extract.py
 │   ├── 2_2_merge_feature.py
